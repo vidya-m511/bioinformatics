@@ -1,5 +1,9 @@
  Comparative Analysis of Desiccation Tolerance Proteins in Tortula ruralis and Ceratodon purpureus
+
+ 
 Project Overview
+
+
 This project explores the molecular basis of desiccation tolerance (DT) in the moss Tortula ruralis by analyzing gene expression data. The main objective was to identify upregulated genes associated with DT, extract their corresponding proteins, and assess their significance in plant desiccation tolerance. These findings were then compared with the desiccation-tolerant moss Ceratodon purpureus.
 
 Workflow Summary
